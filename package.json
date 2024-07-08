@@ -1,0 +1,11 @@
+{
+  "name": "newnoticies",
+  "version": "1.0.0",
+  "description": "bot de noticias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos676767",
+  "license": "ISC"
+}
