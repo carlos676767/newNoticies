@@ -1,6 +1,6 @@
 # Node modules directory
 node_modules/
-app.json/
+app.json
 # Logs
 logs/
 *.log
