@@ -8,4 +8,7 @@ const httpRequest = async () => {
   }
 };
 
-console.log('hello');
+
+(async() => {
+ await httpRequest()
+})()
